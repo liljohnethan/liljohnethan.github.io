@@ -10,6 +10,6 @@ Camera Effects
 
 This Is my Camera Effects Project
 
-![Merry C](https://github.com/liljohnethan/liljohnethan.github.io/blob/master/Merry%20Christmas.PNG?raw=true "Optional Title")
+![Merry Christmas](https://github.com/liljohnethan/liljohnethan.github.io/blob/master/Merry%20Christmas.PNG?raw=true "Optional Title")
 
 ***
