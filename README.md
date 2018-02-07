@@ -13,3 +13,9 @@ This Is my Camera Effects Project
 ![Merry Christmas](https://github.com/liljohnethan/liljohnethan.github.io/blob/master/Merry%20Christmas.PNG?raw=true "Optional Title")
 
 ***
+
+Storyscape
+
+This is my Storyscape Project.
+
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/liljohnethan/weird-world" ></script>
